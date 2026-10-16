@@ -8,6 +8,7 @@ Send content and the questions you care about: yes/no, a choice from options you
 - API: `POST https://strike-ai.eu/v1/systemone`
 - Model: `strike-1` (beta)
 - Docs: [strike-ai.eu/docs](https://strike-ai.eu/docs)
+- Package: `pip install strike-ai`
 - Contact: [hello@strike-ai.eu](mailto:hello@strike-ai.eu)
 
-The public repository is [strikeai/strike](https://github.com/strikeai/strike). It documents how to call the API. Model weights, serving, and the rest of the product stay private.
+The public repository is [strikeai/strike](https://github.com/strikeai/strike). It is the Python client for the hosted API. Model weights, serving, and the rest of the product stay private.
